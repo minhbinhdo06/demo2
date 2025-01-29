@@ -11,4 +11,4 @@ for i in range(10):
 
 print("----------------------------------")
 print(f"Tổng số phần tử bạn đã nhập: {total}")
-print(f"Các phần tử bạn đã nhập:{number}")  
+print(f"Các phần tử bạn đã nhập:{number}")
